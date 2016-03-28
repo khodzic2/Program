@@ -21,7 +21,7 @@ namespace MojaTVApp
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Form3 forma3 = new Form3();
-            /////proba
+            /////proba2
             forma3.Show();
             
            

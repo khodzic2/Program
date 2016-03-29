@@ -42,6 +42,7 @@ namespace MojaTVApp
             {
                 
                 Form2 forma2 = new Form2();
+                //// komentar
                 forma2.Show();
               
                 
